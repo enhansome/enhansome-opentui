@@ -25,14 +25,14 @@
 
 ## Official Resources
 
-* [OpenTUI](https://github.com/sst/opentui) ⭐ 12,964 | 🐛 216 | 🌐 TypeScript | 📅 2026-08-13 - The main OpenTUI project.
+* [OpenTUI](https://github.com/sst/opentui) ⭐ 12,967 | 🐛 215 | 🌐 TypeScript | 📅 2026-08-13 - The main OpenTUI project.
 * [create-tui](https://github.com/msmps/create-tui) ⭐ 140 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-13 - The easiest way to get started with OpenTUI.
 * [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
 
 ## Developer Tools
 
-* [hunk](https://github.com/modem-dev/hunk) ⭐ 8,279 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-13 - Review-first terminal diff viewer for agentic coders.
-* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 4,926 | 🐛 68 | 🌐 Rust | 📅 2026-08-13 - A terminal interface for tracking token usage.
+* [hunk](https://github.com/modem-dev/hunk) ⭐ 8,292 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-13 - Review-first terminal diff viewer for agentic coders.
+* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 4,933 | 🐛 68 | 🌐 Rust | 📅 2026-08-13 - A terminal interface for tracking token usage.
 * [critique](https://github.com/remorses/critique) ⭐ 1,247 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-15 - A terminal interface for reviewing Git changes.
 * [ghui](https://github.com/kitlangton/ghui) ⭐ 1,073 | 🐛 16 | 🌐 TypeScript | 📅 2026-06-28 - A terminal UI for managing open GitHub pull requests across repositories.
 * [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 388 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A terminal user interface for WAHA (WhatsApp HTTP API).
@@ -54,7 +54,7 @@
 
 ## Miscellaneous
 
-* [gloomberb](https://github.com/vincelwt/gloomberb) ⭐ 942 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07 - Financial terminal using OpenTUI for the layout.
+* [gloomberb](https://github.com/vincelwt/gloomberb) ⭐ 945 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07 - Financial terminal using OpenTUI for the layout.
 * [opentui-doom](https://github.com/muhammedaksam/opentui-doom) ⭐ 47 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 * [present-drop](https://github.com/msmps/present-drop) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-23 - A festive terminal game - control Santa to drop presents and destroy evil snowmen.
 
