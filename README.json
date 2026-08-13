@@ -1,0 +1,341 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenTUI",
+          "description": "The main OpenTUI project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:32:57Z",
+            "owner": "anomalyco",
+            "repo": "opentui",
+            "stars": 12964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-tui",
+          "description": "The easiest way to get started with OpenTUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:58:26Z",
+            "owner": "msmps",
+            "repo": "create-tui",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hunk",
+          "description": "Review-first terminal diff viewer for agentic coders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:49:17Z",
+            "owner": "modem-dev",
+            "repo": "hunk",
+            "stars": 8279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokscale",
+          "description": "A terminal interface for tracking token usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:03:26Z",
+            "owner": "junhoyeo",
+            "repo": "tokscale",
+            "stars": 4926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "critique",
+          "description": "A terminal interface for reviewing Git changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-15T14:37:41Z",
+            "owner": "remorses",
+            "repo": "critique",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghui",
+          "description": "A terminal UI for managing open GitHub pull requests across repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T17:43:16Z",
+            "owner": "kitlangton",
+            "repo": "ghui",
+            "stars": 1073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waha-tui",
+          "description": "A terminal user interface for WAHA (WhatsApp HTTP API).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:08:44Z",
+            "owner": "muhammedaksam",
+            "repo": "waha-tui",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termdraw",
+          "description": "A terminal drawing editor for editable diagrams, UI mocks, and text graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T01:09:26Z",
+            "owner": "benvinegar",
+            "repo": "termdraw",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tuiboard",
+          "description": "A terminal kanban board over plain markdown files, with a planner, a calendar-aware agenda, and a live Claude Code session view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T14:53:47Z",
+            "owner": "NazzarenoGiannelli",
+            "repo": "tuiboard",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cftop",
+          "description": "A terminal interface for Cloudflare Workers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-23T23:39:16Z",
+            "owner": "NWBY",
+            "repo": "cftop",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easiarr",
+          "description": "A terminal interface for managing Arr applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:09:12Z",
+            "owner": "muhammedaksam",
+            "repo": "easiarr",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "red",
+          "description": "A terminal interface for Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-19T09:51:04Z",
+            "owner": "evertdespiegeleer",
+            "repo": "red-cli",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opendocker",
+          "description": "A terminal interface for managing Docker containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-01T19:49:08Z",
+            "owner": "flat6solutions",
+            "repo": "opendocker",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t-req",
+          "description": "A terminal interface for browsing and executing .http file workspaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-16T18:44:07Z",
+            "owner": "tensorix-labs",
+            "repo": "t-req",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "restman",
+          "description": "A terminal interface for testing REST APIs.",
+          "children": []
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opentui-ui",
+          "description": "UI component library for terminal applications built on @opentui/core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T11:33:58Z",
+            "owner": "tuiparts",
+            "repo": "tuiparts",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentui-skill",
+          "description": "OpenTUI reference docs for OpenCode covering Core, React, Solid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T21:40:16Z",
+            "owner": "msmps",
+            "repo": "opentui-skill",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentui-spinner",
+          "description": "A spinner component for OpenTUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-09T16:29:40Z",
+            "owner": "msmps",
+            "repo": "opentui-spinner",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anscribe",
+          "description": "Capture live UI from an OpenTUI app and hand it to an agent via the clipboard or MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T20:13:36Z",
+            "owner": "msmps",
+            "repo": "anscribe",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gloomberb",
+          "description": "Financial terminal using OpenTUI for the layout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T12:34:19Z",
+            "owner": "gloom-sh",
+            "repo": "gloomberb",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentui-doom",
+          "description": "Play DOOM in your terminal using OpenTUI's framebuffer rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:09:08Z",
+            "owner": "muhammedaksam",
+            "repo": "opentui-doom",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "present-drop",
+          "description": "A festive terminal game - control Santa to drop presents and destroy evil snowmen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-23T16:14:53Z",
+            "owner": "msmps",
+            "repo": "present-drop",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Contributions are welcome! Please see our Contributing Guide for details on how to submit themes, tools, or other resources.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:41.995Z",
+    "original_repository": "msmps/awesome-opentui",
+    "original_repository_sha": "73e59da549d02996f93949093c9999abbc6bb694",
+    "enhanced_repository": "enhansome/enhansome-opentui",
+    "enhanced_repository_description": null,
+    "title": "Awesome opentui with stars"
+  }
+}
