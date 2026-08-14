@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:01:22Z",
+            "last_commit": "2026-08-14T10:26:20Z",
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 12967
+            "stars": 12986
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:58:26Z",
+            "last_commit": "2026-08-14T01:56:01Z",
             "owner": "msmps",
             "repo": "create-tui",
             "stars": 140
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:49:17Z",
+            "last_commit": "2026-08-14T04:50:38Z",
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 8292
+            "stars": 8326
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:03:26Z",
+            "last_commit": "2026-08-14T10:13:52Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 4933
+            "stars": 4953
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-06-15T14:37:41Z",
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1247
+            "stars": 1250
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-28T17:43:16Z",
             "owner": "kitlangton",
             "repo": "ghui",
-            "stars": 1073
+            "stars": 1074
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-05-19T01:09:26Z",
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-07-31T14:53:47Z",
             "owner": "NazzarenoGiannelli",
             "repo": "tuiboard",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-08-07T12:34:19Z",
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 945
+            "stars": 1370
           }
         },
         {
@@ -331,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:37:07.164Z",
+    "last_updated": "2026-08-14T12:32:37.489Z",
     "original_repository": "msmps/awesome-opentui",
     "original_repository_sha": "73e59da549d02996f93949093c9999abbc6bb694",
     "enhanced_repository": "enhansome/enhansome-opentui",
