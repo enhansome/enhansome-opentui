@@ -25,15 +25,15 @@
 
 ## Official Resources
 
-* [OpenTUI](https://github.com/sst/opentui) ⭐ 12,986 | 🐛 217 | 🌐 TypeScript | 📅 2026-08-14 - The main OpenTUI project.
-* [create-tui](https://github.com/msmps/create-tui) ⭐ 140 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-14 - The easiest way to get started with OpenTUI.
+* [OpenTUI](https://github.com/sst/opentui) ⭐ 13,013 | 🐛 219 | 🌐 TypeScript | 📅 2026-08-14 - The main OpenTUI project.
+* [create-tui](https://github.com/msmps/create-tui) ⭐ 140 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-14 - The easiest way to get started with OpenTUI.
 * [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
 
 ## Developer Tools
 
-* [hunk](https://github.com/modem-dev/hunk) ⭐ 8,326 | 🐛 116 | 🌐 TypeScript | 📅 2026-08-14 - Review-first terminal diff viewer for agentic coders.
-* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 4,953 | 🐛 65 | 🌐 Rust | 📅 2026-08-14 - A terminal interface for tracking token usage.
-* [critique](https://github.com/remorses/critique) ⭐ 1,250 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-15 - A terminal interface for reviewing Git changes.
+* [hunk](https://github.com/modem-dev/hunk) ⭐ 8,405 | 🐛 117 | 🌐 TypeScript | 📅 2026-08-15 - Review-first terminal diff viewer for agentic coders.
+* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 4,963 | 🐛 65 | 🌐 Rust | 📅 2026-08-14 - A terminal interface for tracking token usage.
+* [critique](https://github.com/remorses/critique) ⭐ 1,251 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-15 - A terminal interface for reviewing Git changes.
 * [ghui](https://github.com/kitlangton/ghui) ⭐ 1,074 | 🐛 16 | 🌐 TypeScript | 📅 2026-06-28 - A terminal UI for managing open GitHub pull requests across repositories.
 * [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 388 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A terminal user interface for WAHA (WhatsApp HTTP API).
 * [termdraw](https://github.com/benvinegar/termdraw) ⭐ 284 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-19 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
@@ -54,8 +54,8 @@
 
 ## Miscellaneous
 
-* [gloomberb](https://github.com/vincelwt/gloomberb) ⭐ 1,370 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-07 - Financial terminal using OpenTUI for the layout.
-* [opentui-doom](https://github.com/muhammedaksam/opentui-doom) ⭐ 47 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
+* [gloomberb](https://github.com/vincelwt/gloomberb) ⭐ 1,572 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-14 - Financial terminal using OpenTUI for the layout.
+* [opentui-doom](https://github.com/muhammedaksam/opentui-doom) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 * [present-drop](https://github.com/msmps/present-drop) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-23 - A festive terminal game - control Santa to drop presents and destroy evil snowmen.
 
 ## Starters & Examples
@@ -72,4 +72,4 @@ Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
