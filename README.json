@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:11:25Z",
+            "last_commit": "2026-08-16T08:43:38Z",
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13013
+            "stars": 13022
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T12:02:08Z",
+            "last_commit": "2026-08-16T05:06:50Z",
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 8405
+            "stars": 8442
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T10:13:52Z",
+            "last_commit": "2026-08-16T11:43:44Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 4963
+            "stars": 4976
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-06-15T14:37:41Z",
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1251
+            "stars": 1250
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-05-19T01:09:26Z",
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 284
+            "stars": 285
           }
         },
         {
@@ -137,20 +137,6 @@
         },
         {
           "node_type": "item",
-          "title": "cftop",
-          "description": "A terminal interface for Cloudflare Workers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-23T23:39:16Z",
-            "owner": "NWBY",
-            "repo": "cftop",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
           "title": "easiarr",
           "description": "A terminal interface for managing Arr applications.",
           "children": [],
@@ -161,6 +147,20 @@
             "owner": "muhammedaksam",
             "repo": "easiarr",
             "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cftop",
+          "description": "A terminal interface for Cloudflare Workers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-23T23:39:16Z",
+            "owner": "NWBY",
+            "repo": "cftop",
+            "stars": 72
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-05-15T20:13:36Z",
             "owner": "msmps",
             "repo": "anscribe",
-            "stars": 21
+            "stars": 20
           }
         }
       ],
@@ -287,10 +287,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:28:54Z",
+            "last_commit": "2026-08-15T20:59:06Z",
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 1572
+            "stars": 1778
           }
         },
         {
@@ -331,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T12:10:17.346Z",
+    "last_updated": "2026-08-16T12:11:09.364Z",
     "original_repository": "msmps/awesome-opentui",
     "original_repository_sha": "73e59da549d02996f93949093c9999abbc6bb694",
     "enhanced_repository": "enhansome/enhansome-opentui",
