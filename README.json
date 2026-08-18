@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T15:42:04Z",
+            "last_commit": "2026-08-18T11:27:36Z",
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13036
+            "stars": 13055
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T23:20:23Z",
             "owner": "msmps",
             "repo": "create-tui",
-            "stars": 141
+            "stars": 142
           }
         }
       ],
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:37:00Z",
+            "last_commit": "2026-08-18T02:32:35Z",
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 8481
+            "stars": 8542
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T08:34:55Z",
+            "last_commit": "2026-08-18T11:28:00Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5001
+            "stars": 5028
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-06-15T14:37:41Z",
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1252
+            "stars": 1253
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-28T17:43:16Z",
             "owner": "kitlangton",
             "repo": "ghui",
-            "stars": 1076
+            "stars": 1079
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-16T15:26:07Z",
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -287,10 +287,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T00:01:57Z",
+            "last_commit": "2026-08-18T12:15:54Z",
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 1844
+            "stars": 1877
           }
         },
         {
@@ -331,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T12:14:57.410Z",
+    "last_updated": "2026-08-18T12:16:03.360Z",
     "original_repository": "msmps/awesome-opentui",
     "original_repository_sha": "73e59da549d02996f93949093c9999abbc6bb694",
     "enhanced_repository": "enhansome/enhansome-opentui",
