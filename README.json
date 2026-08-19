@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1023522611,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:27:36Z",
+            "last_commit": "2026-08-19T12:08:56Z",
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13055
+            "stars": 13080
           }
         },
         {
@@ -24,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1045838787,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:20:23Z",
+            "last_commit": "2026-08-19T09:43:27Z",
             "owner": "msmps",
             "repo": "create-tui",
-            "stars": 142
+            "stars": 143
           }
         }
       ],
       "title": "Official Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184626912,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T02:32:35Z",
+            "last_commit": "2026-08-19T02:16:26Z",
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 8542
+            "stars": 8603
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1107676388,
             "language": "Rust",
-            "last_commit": "2026-08-18T11:28:00Z",
+            "last_commit": "2026-08-19T02:59:21Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5028
+            "stars": 5043
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072338307,
             "language": "TypeScript",
             "last_commit": "2026-06-15T14:37:41Z",
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1253
+            "stars": 1254
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1208191255,
             "language": "TypeScript",
             "last_commit": "2026-06-28T17:43:16Z",
             "owner": "kitlangton",
             "repo": "ghui",
-            "stars": 1079
+            "stars": 1078
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1118163078,
             "language": "TypeScript",
             "last_commit": "2026-08-10T16:08:44Z",
             "owner": "muhammedaksam",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205495966,
             "language": "TypeScript",
             "last_commit": "2026-08-16T15:26:07Z",
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 287
+            "stars": 288
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1252565065,
             "language": "TypeScript",
             "last_commit": "2026-07-31T14:53:47Z",
             "owner": "NazzarenoGiannelli",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114746035,
             "language": "TypeScript",
             "last_commit": "2026-08-10T16:09:12Z",
             "owner": "muhammedaksam",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1089174993,
             "language": "TypeScript",
             "last_commit": "2025-11-23T23:39:16Z",
             "owner": "NWBY",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1074317590,
             "language": "TypeScript",
             "last_commit": "2025-12-19T09:51:04Z",
             "owner": "evertdespiegeleer",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1068157190,
             "language": "TypeScript",
             "last_commit": "2026-05-01T19:49:08Z",
             "owner": "flat6solutions",
@@ -198,24 +211,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137743875,
             "language": "TypeScript",
             "last_commit": "2026-04-16T18:44:07Z",
             "owner": "tensorix-labs",
             "repo": "t-req",
             "stars": 22
           }
-        },
-        {
-          "node_type": "item",
-          "title": "restman",
-          "description": "A terminal interface for testing REST APIs.",
-          "children": []
         }
       ],
       "title": "Developer Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -224,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1123204371,
             "language": "TypeScript",
             "last_commit": "2026-08-05T11:33:58Z",
             "owner": "tuiparts",
@@ -238,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137820994,
             "language": "Shell",
             "last_commit": "2026-07-01T21:40:16Z",
             "owner": "msmps",
@@ -252,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1092603616,
             "language": "TypeScript",
             "last_commit": "2026-06-09T16:29:40Z",
             "owner": "msmps",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1239183495,
             "language": "TypeScript",
             "last_commit": "2026-05-15T20:13:36Z",
             "owner": "msmps",
@@ -277,7 +289,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -286,11 +298,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191195886,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:15:54Z",
+            "last_commit": "2026-08-19T10:12:24Z",
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 1877
+            "stars": 1906
           }
         },
         {
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1111648523,
             "language": "TypeScript",
             "last_commit": "2026-08-10T16:09:08Z",
             "owner": "muhammedaksam",
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1121818459,
             "language": "TypeScript",
             "last_commit": "2025-12-23T16:14:53Z",
             "owner": "msmps",
@@ -323,16 +338,12 @@
         }
       ],
       "title": "Miscellaneous"
-    },
-    {
-      "description": "Contributions are welcome! Please see our Contributing Guide for details on how to submit themes, tools, or other resources.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:16:03.360Z",
+    "last_updated": "2026-08-19T12:25:39.505Z",
     "original_repository": "msmps/awesome-opentui",
+    "original_repository_id": 1090595153,
     "original_repository_sha": "73e59da549d02996f93949093c9999abbc6bb694",
     "enhanced_repository": "enhansome/enhansome-opentui",
     "enhanced_repository_description": null,
