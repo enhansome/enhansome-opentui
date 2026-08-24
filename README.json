@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1023522611,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:16:53Z",
+            "last_commit": "2026-08-24T13:03:42Z",
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13138
+            "stars": 13140
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 1184626912,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T01:31:29Z",
+            "last_commit": "2026-08-24T14:14:57Z",
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 8707
+            "stars": 8709
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-22T12:24:05Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5145
+            "stars": 5147
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-15T14:37:41Z",
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1256
+            "stars": 1257
           }
         },
         {
@@ -338,10 +338,52 @@
         }
       ],
       "title": "Miscellaneous"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opentui-examples",
+          "description": "A collection of example projects built with OpenTUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1119044774,
+            "language": "TypeScript",
+            "last_commit": "2025-12-21T22:07:21Z",
+            "owner": "msmps",
+            "repo": "opentui-examples",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Starters & Examples"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pilotty",
+          "description": "Terminal equivalent of Vercel's agent-browser - CLI that enables AI agents to automate and control TUI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1143454874,
+            "language": "Rust",
+            "last_commit": "2026-07-11T18:52:15Z",
+            "owner": "msmps",
+            "repo": "pilotty",
+            "stars": 155
+          }
+        }
+      ],
+      "title": "Testing & Automation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:18:42.921Z",
+    "last_updated": "2026-08-24T14:29:05.197Z",
     "original_repository": "msmps/awesome-opentui",
     "original_repository_id": 1090595153,
     "original_repository_sha": "73e59da549d02996f93949093c9999abbc6bb694",

@@ -25,15 +25,15 @@
 
 ## Official Resources
 
-* [OpenTUI](https://github.com/sst/opentui) ⭐ 13,138 | 🐛 213 | 🌐 TypeScript | 📅 2026-08-24 - The main OpenTUI project.
+* [OpenTUI](https://github.com/sst/opentui) ⭐ 13,140 | 🐛 212 | 🌐 TypeScript | 📅 2026-08-24 - The main OpenTUI project.
 * [create-tui](https://github.com/msmps/create-tui) ⭐ 144 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24 - The easiest way to get started with OpenTUI.
 * [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
 
 ## Developer Tools
 
-* [hunk](https://github.com/modem-dev/hunk) ⭐ 8,707 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-24 - Review-first terminal diff viewer for agentic coders.
-* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,145 | 🐛 77 | 🌐 Rust | 📅 2026-08-22 - A terminal interface for tracking token usage.
-* [critique](https://github.com/remorses/critique) ⭐ 1,256 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-15 - A terminal interface for reviewing Git changes.
+* [hunk](https://github.com/modem-dev/hunk) ⭐ 8,709 | 🐛 159 | 🌐 TypeScript | 📅 2026-08-24 - Review-first terminal diff viewer for agentic coders.
+* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,147 | 🐛 80 | 🌐 Rust | 📅 2026-08-22 - A terminal interface for tracking token usage.
+* [critique](https://github.com/remorses/critique) ⭐ 1,257 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-15 - A terminal interface for reviewing Git changes.
 * [ghui](https://github.com/kitlangton/ghui) ⭐ 1,079 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-28 - A terminal UI for managing open GitHub pull requests across repositories.
 * [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 392 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A terminal user interface for WAHA (WhatsApp HTTP API).
 * [termdraw](https://github.com/benvinegar/termdraw) ⭐ 290 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-16 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
