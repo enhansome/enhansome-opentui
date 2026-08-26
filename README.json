@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1023522611,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T07:20:24Z",
+            "last_commit": "2026-08-26T12:16:36Z",
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13146
+            "stars": 13158
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1045838787,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:14:33Z",
+            "last_commit": "2026-08-25T21:45:31Z",
             "owner": "msmps",
             "repo": "create-tui",
-            "stars": 144
+            "stars": 145
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 1184626912,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:45:55Z",
+            "last_commit": "2026-08-26T03:40:46Z",
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 8730
+            "stars": 8745
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 1107676388,
             "language": "Rust",
-            "last_commit": "2026-08-24T22:47:23Z",
+            "last_commit": "2026-08-26T08:12:25Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5155
+            "stars": 5171
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-15T14:37:41Z",
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1259
+            "stars": 1260
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-06-28T17:43:16Z",
             "owner": "kitlangton",
             "repo": "ghui",
-            "stars": 1084
+            "stars": 1089
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-10T16:08:44Z",
             "owner": "muhammedaksam",
             "repo": "waha-tui",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-16T15:26:07Z",
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 290
+            "stars": 292
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-07-31T14:53:47Z",
             "owner": "NazzarenoGiannelli",
             "repo": "tuiboard",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -176,6 +176,21 @@
         },
         {
           "node_type": "item",
+          "title": "opendocker",
+          "description": "A terminal interface for managing Docker containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1068157190,
+            "language": "TypeScript",
+            "last_commit": "2026-05-01T19:49:08Z",
+            "owner": "flat6solutions",
+            "repo": "opendocker",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
           "title": "red",
           "description": "A terminal interface for Redis.",
           "children": [],
@@ -187,21 +202,6 @@
             "owner": "evertdespiegeleer",
             "repo": "red-cli",
             "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opendocker",
-          "description": "A terminal interface for managing Docker containers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1068157190,
-            "language": "TypeScript",
-            "last_commit": "2026-05-01T19:49:08Z",
-            "owner": "flat6solutions",
-            "repo": "opendocker",
-            "stars": 38
           }
         },
         {
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 1191195886,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T11:09:19Z",
+            "last_commit": "2026-08-25T18:57:57Z",
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 1979
+            "stars": 1985
           }
         },
         {
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T12:19:01.665Z",
+    "last_updated": "2026-08-26T12:20:46.679Z",
     "original_repository": "msmps/awesome-opentui",
     "original_repository_id": 1090595153,
     "original_repository_sha": "73e59da549d02996f93949093c9999abbc6bb694",
