@@ -12,29 +12,95 @@
             "archived": false,
             "id": 1023522611,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:56:30Z",
+            "last_commit": "2026-08-27T19:41:45Z",
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13164
+            "stars": 13165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentui-skill",
+          "description": "OpenTUI reference docs for coding agents covering Core, React, and Solid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137820994,
+            "language": "Shell",
+            "last_commit": "2026-08-27T20:10:08Z",
+            "owner": "msmps",
+            "repo": "opentui-skill",
+            "stars": 224
           }
         },
         {
           "node_type": "item",
           "title": "create-tui",
-          "description": "The easiest way to get started with OpenTUI.",
+          "description": "A project generator for OpenTUI applications.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1045838787,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T21:45:31Z",
+            "last_commit": "2026-08-27T20:29:46Z",
             "owner": "msmps",
             "repo": "create-tui",
             "stars": 145
           }
         }
       ],
-      "title": "Official Resources"
+      "title": "Official Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tuiparts.sh",
+          "description": "Primitive and recipe ecosystem for OpenTUI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1123204371,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T11:33:58Z",
+            "owner": "tuiparts",
+            "repo": "tuiparts",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentui-spinner",
+          "description": "A spinner component for OpenTUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1092603616,
+            "language": "TypeScript",
+            "last_commit": "2026-06-09T16:29:40Z",
+            "owner": "msmps",
+            "repo": "opentui-spinner",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anscribe",
+          "description": "Capture live UI from an OpenTUI app and hand it to an agent via the clipboard or MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1239183495,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T20:13:36Z",
+            "owner": "msmps",
+            "repo": "anscribe",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Libraries"
     },
     {
       "description": null,
@@ -48,10 +114,10 @@
             "archived": false,
             "id": 1184626912,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:28:17Z",
+            "last_commit": "2026-08-27T19:53:44Z",
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 8817
+            "stars": 8837
           }
         },
         {
@@ -66,7 +132,7 @@
             "last_commit": "2026-08-27T08:47:59Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5182
+            "stars": 5186
           }
         },
         {
@@ -126,7 +192,7 @@
             "last_commit": "2026-08-16T15:26:07Z",
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 293
+            "stars": 295
           }
         },
         {
@@ -141,7 +207,7 @@
             "last_commit": "2026-07-31T14:53:47Z",
             "owner": "NazzarenoGiannelli",
             "repo": "tuiboard",
-            "stars": 109
+            "stars": 110
           }
         },
         {
@@ -156,7 +222,7 @@
             "last_commit": "2026-08-10T16:09:12Z",
             "owner": "muhammedaksam",
             "repo": "easiarr",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -227,72 +293,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "opentui-ui",
-          "description": "UI component library for terminal applications built on @opentui/core.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1123204371,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T11:33:58Z",
-            "owner": "tuiparts",
-            "repo": "tuiparts",
-            "stars": 253
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opentui-skill",
-          "description": "OpenTUI reference docs for OpenCode covering Core, React, Solid.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1137820994,
-            "language": "Shell",
-            "last_commit": "2026-07-01T21:40:16Z",
-            "owner": "msmps",
-            "repo": "opentui-skill",
-            "stars": 224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opentui-spinner",
-          "description": "A spinner component for OpenTUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1092603616,
-            "language": "TypeScript",
-            "last_commit": "2026-06-09T16:29:40Z",
-            "owner": "msmps",
-            "repo": "opentui-spinner",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anscribe",
-          "description": "Capture live UI from an OpenTUI app and hand it to an agent via the clipboard or MCP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1239183495,
-            "language": "TypeScript",
-            "last_commit": "2026-05-15T20:13:36Z",
-            "owner": "msmps",
-            "repo": "anscribe",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "gloomberb",
           "description": "Financial terminal using OpenTUI for the layout.",
           "children": [],
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 1191195886,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:46:59Z",
+            "last_commit": "2026-08-27T20:09:41Z",
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 1989
+            "stars": 1990
           }
         },
         {
@@ -323,77 +323,35 @@
         },
         {
           "node_type": "item",
-          "title": "present-drop",
-          "description": "A festive terminal game - control Santa to drop presents and destroy evil snowmen.",
+          "title": "tfm-tui",
+          "description": "A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1121818459,
+            "id": 1345851305,
             "language": "TypeScript",
-            "last_commit": "2025-12-23T16:14:53Z",
-            "owner": "msmps",
-            "repo": "present-drop",
-            "stars": 2
+            "last_commit": "2026-08-27T00:49:30Z",
+            "owner": "clarkarch",
+            "repo": "tfm-tui",
+            "stars": 44
           }
         }
       ],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "opentui-examples",
-          "description": "A collection of example projects built with OpenTUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1119044774,
-            "language": "TypeScript",
-            "last_commit": "2025-12-21T22:07:21Z",
-            "owner": "msmps",
-            "repo": "opentui-examples",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Starters & Examples"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pilotty",
-          "description": "Terminal equivalent of Vercel's agent-browser - CLI that enables AI agents to automate and control TUI applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1143454874,
-            "language": "Rust",
-            "last_commit": "2026-07-11T18:52:15Z",
-            "owner": "msmps",
-            "repo": "pilotty",
-            "stars": 155
-          }
-        }
-      ],
-      "title": "Testing & Automation"
+      "title": "Applications & Games"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:58.642Z",
+    "last_updated": "2026-08-27T21:19:43.126Z",
     "original_repository_info": {
       "archived": false,
       "id": 1090595153,
       "language": null,
-      "last_commit": "2026-06-07T21:56:15Z",
+      "last_commit": "2026-08-27T20:44:15Z",
       "owner": "msmps",
       "repo": "awesome-opentui",
       "stars": 389
     },
-    "original_repository_sha": "73e59da549d02996f93949093c9999abbc6bb694",
+    "original_repository_sha": "198422e55ebcd2366caadb4566e7286a6612445d",
     "enhanced_repository": "enhansome/enhansome-opentui",
     "enhanced_repository_description": null,
     "title": "Awesome opentui with stars"
