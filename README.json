@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTUI is a library to build terminal user interfaces (TUI)",
+            "homepage": "https://opentui.com/",
             "id": 1023522611,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:45:12Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:07:33Z",
+            "open_issues": 138,
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13172
+            "stars": 13175,
+            "topics": [
+              "opencode",
+              "opentui",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTUI skill for use with OpenCode",
+            "homepage": null,
             "id": 1137820994,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:10:08Z",
+            "open_issues": 0,
             "owner": "msmps",
             "repo": "opentui-skill",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to get started with OpenTUI is by using create-tui. This CLI tool enables you to quickly start building a new OpenTUI application, with everything set up for you.",
+            "homepage": null,
             "id": 1045838787,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T09:55:07Z",
+            "open_issues": 3,
             "owner": "msmps",
             "repo": "create-tui",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         }
@@ -64,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI component library for terminal applications built on @opentui/*",
+            "homepage": null,
             "id": 1123204371,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-05T11:33:58Z",
+            "open_issues": 4,
             "owner": "tuiparts",
             "repo": "tuiparts",
-            "stars": 253
+            "stars": 253,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -80,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small & opinionated spinner library for OpenTUI",
+            "homepage": null,
             "id": 1092603616,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-09T16:29:40Z",
+            "open_issues": 0,
             "owner": "msmps",
             "repo": "opentui-spinner",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -96,12 +125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1239183495,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-15T20:13:36Z",
+            "open_issues": 0,
             "owner": "msmps",
             "repo": "anscribe",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         }
@@ -118,12 +152,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Review-first terminal diff viewer for agentic coders",
+            "homepage": "https://hunk.dev",
             "id": 1184626912,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:58:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:40:21Z",
+            "open_issues": 140,
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 8878
+            "stars": 8882,
+            "topics": [
+              "agents",
+              "cli",
+              "code-review",
+              "diff",
+              "git",
+              "jj",
+              "jujutsu",
+              "sapling",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -134,12 +184,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.",
+            "homepage": "https://tokscale.ai",
             "id": 1107676388,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:12:04Z",
+            "open_issues": 68,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5203
+            "stars": 5206,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ampcode",
+              "claude",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "cursor",
+              "cursor-ide",
+              "droid",
+              "gemini",
+              "gemini-cli",
+              "gpt",
+              "hermes",
+              "moltbot",
+              "oh",
+              "openclaw",
+              "opencode",
+              "opentui",
+              "token-usage"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -150,12 +226,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TUI for reviewing git changes",
+            "homepage": null,
             "id": 1072338307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-15T14:37:41Z",
+            "open_issues": 11,
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1262
+            "stars": 1262,
+            "topics": [
+              "diff",
+              "opentui",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -166,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub TUI",
+            "homepage": null,
             "id": 1208191255,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-28T17:43:16Z",
+            "open_issues": 17,
             "owner": "kitlangton",
             "repo": "ghui",
-            "stars": 1092
+            "stars": 1092,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -182,12 +272,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A beautiful Terminal User Interface for WhatsApp using WAHA (WhatsApp HTTP API). Manage your WhatsApp sessions, chats, and messages directly from your terminal with an intuitive TUI powered by OpenTUI.",
+            "homepage": "https://www.npmjs.com/package/@muhammedaksam/waha-tui",
             "id": 1118163078,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T16:08:44Z",
+            "open_issues": 0,
             "owner": "muhammedaksam",
             "repo": "waha-tui",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "chat",
+              "cli",
+              "messaging",
+              "opentui",
+              "terminal",
+              "tui",
+              "waha",
+              "whatsapp"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -198,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-friendly ASCII illustrator for the terminal",
+            "homepage": null,
             "id": 1205495966,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T15:26:07Z",
+            "open_issues": 8,
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 299
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -214,12 +323,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal kanban on plain markdown, with optional Today/Tomorrow planner, 24h agenda + calendar, and a live Claude Code agent view. Use only the panels you want.",
+            "homepage": "https://tuiboard.nazzareno.xyz",
             "id": 1252565065,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T14:53:47Z",
+            "open_issues": 11,
             "owner": "NazzarenoGiannelli",
             "repo": "tuiboard",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "bun",
+              "kanban",
+              "markdown",
+              "obsidian",
+              "opentui",
+              "productivity",
+              "solidjs",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -230,12 +354,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TUI tool for generating docker-compose files for the *arr media ecosystem with 52 apps, TRaSH Guides best practices, VPN routing, and Traefik reverse proxy support.",
+            "homepage": "https://www.npmjs.com/package/@muhammedaksam/easiarr",
             "id": 1114746035,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T16:09:12Z",
+            "open_issues": 0,
             "owner": "muhammedaksam",
             "repo": "easiarr",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "arr",
+              "cli",
+              "docker",
+              "docker-compose",
+              "media-server",
+              "opentui",
+              "prowlarr",
+              "radarr",
+              "sonarr",
+              "trash-guides",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -246,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1089174993,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-11-23T23:39:16Z",
+            "open_issues": 6,
             "owner": "NWBY",
             "repo": "cftop",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -262,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1068157190,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-01T19:49:08Z",
-            "owner": "flat6solutions",
+            "open_issues": 0,
+            "owner": "coastalwebdesigns",
             "repo": "opendocker",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -278,12 +429,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TUI client for Redis",
+            "homepage": null,
             "id": 1074317590,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-19T09:51:04Z",
+            "open_issues": 1,
             "owner": "evertdespiegeleer",
             "repo": "red-cli",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "cli",
+              "redis",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -294,12 +454,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API client for code-first teams. Test, automate, and observe APIs from .http files.",
+            "homepage": "https://t-req.io",
             "id": 1137743875,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T18:44:07Z",
+            "open_issues": 0,
             "owner": "tensorix-labs",
             "repo": "t-req",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "api-testing",
+              "bruno-alternative",
+              "bun",
+              "cli",
+              "developer-tools",
+              "http",
+              "http-client",
+              "mit-licenese",
+              "postman-alternative",
+              "rest-client",
+              "sse",
+              "typescript",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         }
@@ -316,12 +495,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Finance terminal, in your terminal.",
+            "homepage": "https://gloom.sh",
             "id": 1191195886,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:55:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:56:06Z",
+            "open_issues": 9,
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 1999
+            "stars": 2004,
+            "topics": [
+              "bloomberg-terminal",
+              "finance",
+              "market-data",
+              "open-source-finance",
+              "portfolio-tracker",
+              "stocks",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -332,12 +525,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern mouse-first terminal file manager",
+            "homepage": null,
             "id": 1345851305,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:09:57Z",
+            "open_issues": 0,
             "owner": "clarkarch",
             "repo": "tfm-tui",
-            "stars": 62
+            "stars": 63,
+            "topics": [
+              "bun",
+              "file-manager",
+              "kitty-terminal",
+              "opentui",
+              "terminal-file-manager",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         },
@@ -348,12 +553,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Play DOOM in your terminal using OpenTUI's framebuffer rendering and doomgeneric WASM",
+            "homepage": "https://www.npmjs.com/package/@muhammedaksam/opentui-doom",
             "id": 1111648523,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T16:09:08Z",
+            "open_issues": 0,
             "owner": "muhammedaksam",
             "repo": "opentui-doom",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "cli",
+              "console",
+              "doom",
+              "doomgeneric",
+              "framebuffer",
+              "game",
+              "opentui",
+              "retro",
+              "terminal",
+              "tui",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
         }
@@ -362,15 +585,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:37.865Z",
+    "last_updated": "2026-08-29T04:46:57.399Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome opentui resources",
+      "homepage": null,
       "id": 1090595153,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-27T20:44:15Z",
+      "open_issues": 4,
       "owner": "msmps",
       "repo": "awesome-opentui",
-      "stars": 389
+      "stars": 389,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cli",
+        "opentui",
+        "terminal",
+        "tui"
+      ]
     },
     "original_repository_sha": "198422e55ebcd2366caadb4566e7286a6612445d",
     "enhanced_repository": "enhansome/enhansome-opentui",
