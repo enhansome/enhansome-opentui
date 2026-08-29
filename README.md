@@ -25,7 +25,7 @@
 
 ## Official Projects
 
-* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,175 | 🐛 138 | 🌐 TypeScript | 📅 2026-08-29 - The main OpenTUI project.
+* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,176 | 🐛 138 | 🌐 TypeScript | 📅 2026-08-29 - The main OpenTUI project.
 * [opentui-skill](https://github.com/msmps/opentui-skill) ⭐ 224 | 🐛 0 | 🌐 Shell | 📅 2026-08-27 - OpenTUI reference docs for coding agents covering Core, React, and Solid.
 * [create-tui](https://github.com/msmps/create-tui) ⭐ 145 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28 - A project generator for OpenTUI applications.
 * [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
@@ -36,7 +36,7 @@
 
 ## Libraries
 
-* [tuiparts.sh](https://github.com/tuiparts/tuiparts) ⭐ 253 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-05 - Primitive and recipe ecosystem for OpenTUI applications.
+* [tuiparts.sh](https://github.com/tuiparts/tuiparts) ⭐ 254 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-05 - Primitive and recipe ecosystem for OpenTUI applications.
 * [opentui-spinner](https://github.com/msmps/opentui-spinner) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-09 - A spinner component for OpenTUI.
 * [anscribe](https://github.com/msmps/anscribe) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-15 - Capture live UI from an OpenTUI app and hand it to an agent via the clipboard or MCP.
 
@@ -46,12 +46,12 @@
 
 ## Developer Tools
 
-* [hunk](https://github.com/modem-dev/hunk) ⭐ 8,882 | 🐛 140 | 🌐 TypeScript | 📅 2026-08-29 - Review-first terminal diff viewer for agentic coders.
-* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,206 | 🐛 68 | 🌐 Rust | 📅 2026-08-28 - A terminal interface for tracking token usage.
+* [hunk](https://github.com/modem-dev/hunk) ⭐ 8,898 | 🐛 140 | 🌐 TypeScript | 📅 2026-08-29 - Review-first terminal diff viewer for agentic coders.
+* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,210 | 🐛 68 | 🌐 Rust | 📅 2026-08-29 - A terminal interface for tracking token usage.
 * [critique](https://github.com/remorses/critique) ⭐ 1,262 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-15 - A terminal interface for reviewing Git changes.
 * [ghui](https://github.com/kitlangton/ghui) ⭐ 1,092 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-28 - A terminal UI for managing open GitHub pull requests across repositories.
 * [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 393 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A terminal user interface for WAHA (WhatsApp HTTP API).
-* [termdraw](https://github.com/benvinegar/termdraw) ⭐ 300 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-16 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
+* [termdraw](https://github.com/benvinegar/termdraw) ⭐ 301 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-16 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
 * [tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) ⭐ 110 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-31 - A terminal kanban board over plain markdown files, with a planner, a calendar-aware agenda, and a live Claude Code session view.
 * [easiarr](https://github.com/muhammedaksam/easiarr) ⭐ 75 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A terminal interface for managing Arr applications.
 * [cftop](https://github.com/NWBY/cftop) ⭐ 72 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-23 - A terminal interface for Cloudflare Workers.
@@ -61,8 +61,8 @@
 
 ## Applications & Games
 
-* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,004 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-28 - Financial terminal using OpenTUI for the layout.
-* [tfm-tui](https://github.com/clarkarch/tfm-tui) ⭐ 63 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-28 - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
+* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,005 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-29 - Financial terminal using OpenTUI for the layout.
+* [tfm-tui](https://github.com/clarkarch/tfm-tui) ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29 - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
 * [opentui-doom](https://github.com/muhammedaksam/opentui-doom) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 
 ## Contributing
