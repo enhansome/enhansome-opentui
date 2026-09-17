@@ -15,11 +15,11 @@
             "id": 1023522611,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T09:46:41Z",
+            "last_commit": "2026-09-17T14:30:52Z",
             "open_issues": 142,
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13316,
+            "stars": 13327,
             "topics": [
               "opencode",
               "opentui",
@@ -179,7 +179,7 @@
             "open_issues": 166,
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 9307,
+            "stars": 9320,
             "topics": [
               "agents",
               "cli",
@@ -208,10 +208,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-15T21:23:36Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5453,
+            "stars": 5463,
             "topics": [
               "ai",
               "ai-agents",
@@ -253,7 +253,7 @@
             "open_issues": 10,
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1274,
+            "stars": 1273,
             "topics": [
               "diff",
               "opentui",
@@ -278,7 +278,7 @@
             "open_issues": 21,
             "owner": "kitlangton",
             "repo": "ghui",
-            "stars": 1111,
+            "stars": 1112,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
@@ -341,13 +341,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Terminal kanban on plain markdown, with optional Today/Tomorrow planner, 24h agenda + calendar, and a live Claude Code agent view. Use only the panels you want.",
+            "description": "Terminal kanban on plain markdown, with optional Today/Tomorrow planner, 24h agenda + calendar, and a live view of your coding agents (Claude Code, Codex, OpenCode, Pi) with herdr integration.",
             "homepage": "https://tuiboard.nazzareno.xyz",
             "id": 1252565065,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T22:56:37Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-17T14:55:59Z",
+            "open_issues": 7,
             "owner": "NazzarenoGiannelli",
             "repo": "tuiboard",
             "stars": 111,
@@ -518,11 +518,11 @@
             "id": 1191195886,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T14:22:22Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-17T14:58:18Z",
+            "open_issues": 17,
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 2149,
+            "stars": 2153,
             "topics": [
               "bloomberg-terminal",
               "finance",
@@ -552,7 +552,7 @@
             "open_issues": 0,
             "owner": "clarkarch",
             "repo": "tfm-tui",
-            "stars": 170,
+            "stars": 195,
             "topics": [
               "bun",
               "file-manager",
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:35:35.286Z",
+    "last_updated": "2026-09-17T15:41:36.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome opentui resources",
