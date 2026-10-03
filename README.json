@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13453,
+            "stars": 13458,
             "topics": [
               "opencode",
               "opentui",
@@ -175,11 +175,11 @@
             "id": 1184626912,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T09:35:05Z",
+            "last_commit": "2026-10-02T18:21:24Z",
             "open_issues": 180,
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 9467,
+            "stars": 9470,
             "topics": [
               "agents",
               "cli",
@@ -208,10 +208,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-29T20:33:45Z",
-            "open_issues": 73,
+            "open_issues": 81,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5600,
+            "stars": 5608,
             "topics": [
               "ai",
               "ai-agents",
@@ -518,11 +518,11 @@
             "id": 1191195886,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T14:41:45Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T00:46:00Z",
+            "open_issues": 3,
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 2314,
+            "stars": 2318,
             "topics": [
               "bloomberg-terminal",
               "finance",
@@ -552,7 +552,7 @@
             "open_issues": 0,
             "owner": "clarkarch",
             "repo": "tfm-tui",
-            "stars": 256,
+            "stars": 255,
             "topics": [
               "bun",
               "file-manager",
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:50:55.904Z",
+    "last_updated": "2026-10-03T05:04:11.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome opentui resources",

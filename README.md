@@ -25,7 +25,7 @@
 
 ## Official Projects
 
-* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,453 | 🐛 154 | 🌐 TypeScript | 📅 2026-10-02 - The main OpenTUI project.
+* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,458 | 🐛 154 | 🌐 TypeScript | 📅 2026-10-02 - The main OpenTUI project.
 * [opentui-skill](https://github.com/msmps/opentui-skill) ⭐ 225 | 🐛 0 | 🌐 Shell | 📅 2026-08-27 - OpenTUI reference docs for coding agents covering Core, React, and Solid.
 * [create-tui](https://github.com/msmps/create-tui) ⭐ 147 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - A project generator for OpenTUI applications.
 * [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
@@ -46,8 +46,8 @@
 
 ## Developer Tools
 
-* [hunk](https://github.com/modem-dev/hunk) ⭐ 9,467 | 🐛 180 | 🌐 TypeScript | 📅 2026-10-01 - Review-first terminal diff viewer for agentic coders.
-* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,600 | 🐛 73 | 🌐 Rust | 📅 2026-09-29 - A terminal interface for tracking token usage.
+* [hunk](https://github.com/modem-dev/hunk) ⭐ 9,470 | 🐛 180 | 🌐 TypeScript | 📅 2026-10-02 - Review-first terminal diff viewer for agentic coders.
+* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,608 | 🐛 81 | 🌐 Rust | 📅 2026-09-29 - A terminal interface for tracking token usage.
 * [critique](https://github.com/remorses/critique) ⭐ 1,273 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-27 - A terminal interface for reviewing Git changes.
 * [ghui](https://github.com/kitlangton/ghui) ⭐ 1,123 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-25 - A terminal UI for managing open GitHub pull requests across repositories.
 * [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 403 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - A terminal user interface for WAHA (WhatsApp HTTP API).
@@ -61,8 +61,8 @@
 
 ## Applications & Games
 
-* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,314 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-02 - Financial terminal using OpenTUI for the layout.
-* [tfm-tui](https://github.com/clarkarch/tfm-tui) ⭐ 256 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
+* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,318 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-03 - Financial terminal using OpenTUI for the layout.
+* [tfm-tui](https://github.com/clarkarch/tfm-tui) ⭐ 255 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
 * [opentui-doom](https://github.com/muhammedaksam/opentui-doom) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 
 ## Contributing
@@ -71,4 +71,4 @@ Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
