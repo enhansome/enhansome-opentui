@@ -25,7 +25,7 @@
 
 ## Official Projects
 
-* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,483 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-06 - The main OpenTUI project.
+* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,487 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-06 - The main OpenTUI project.
 * [opentui-skill](https://github.com/msmps/opentui-skill) ⭐ 225 | 🐛 0 | 🌐 Shell | 📅 2026-08-27 - OpenTUI reference docs for coding agents covering Core, React, and Solid.
 * [create-tui](https://github.com/msmps/create-tui) ⭐ 147 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - A project generator for OpenTUI applications.
 * [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
@@ -46,11 +46,11 @@
 
 ## Developer Tools
 
-* [hunk](https://github.com/modem-dev/hunk) ⭐ 9,515 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-06 - Review-first terminal diff viewer for agentic coders.
-* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,631 | 🐛 77 | 🌐 Rust | 📅 2026-10-05 - A terminal interface for tracking token usage.
-* [critique](https://github.com/remorses/critique) ⭐ 1,275 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-27 - A terminal interface for reviewing Git changes.
-* [ghui](https://github.com/kitlangton/ghui) ⭐ 1,121 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-25 - A terminal UI for managing open GitHub pull requests across repositories.
-* [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 403 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - A terminal user interface for WAHA (WhatsApp HTTP API).
+* [hunk](https://github.com/modem-dev/hunk) ⭐ 9,518 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-06 - Review-first terminal diff viewer for agentic coders.
+* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,634 | 🐛 77 | 🌐 Rust | 📅 2026-10-05 - A terminal interface for tracking token usage.
+* [critique](https://github.com/remorses/critique) ⭐ 1,276 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-27 - A terminal interface for reviewing Git changes.
+* [ghui](https://github.com/kitlangton/ghui) ⭐ 1,123 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-25 - A terminal UI for managing open GitHub pull requests across repositories.
+* [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 404 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - A terminal user interface for WAHA (WhatsApp HTTP API).
 * [termdraw](https://github.com/benvinegar/termdraw) ⭐ 336 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-04 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
 * [tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) ⭐ 122 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-04 - A terminal kanban board over plain markdown files, with a planner, a calendar-aware agenda, and a live Claude Code session view.
 * [easiarr](https://github.com/muhammedaksam/easiarr) ⭐ 75 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A terminal interface for managing Arr applications.
@@ -61,7 +61,7 @@
 
 ## Applications & Games
 
-* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,361 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-06 - Financial terminal using OpenTUI for the layout.
+* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,363 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-06 - Financial terminal using OpenTUI for the layout.
 * [tfm-tui](https://github.com/clarkarch/tfm-tui) ⭐ 259 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06 - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
 * [opentui-doom](https://github.com/muhammedaksam/opentui-doom) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 
