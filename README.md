@@ -25,9 +25,9 @@
 
 ## Official Projects
 
-* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,496 | 🐛 155 | 🌐 TypeScript | 📅 2026-10-08 - The main OpenTUI project.
+* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,504 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-09 - The main OpenTUI project.
 * [opentui-skill](https://github.com/msmps/opentui-skill) ⭐ 225 | 🐛 0 | 🌐 Shell | 📅 2026-08-27 - OpenTUI reference docs for coding agents covering Core, React, and Solid.
-* [create-tui](https://github.com/msmps/create-tui) ⭐ 145 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-08 - A project generator for OpenTUI applications.
+* [create-tui](https://github.com/msmps/create-tui) ⭐ 145 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-09 - A project generator for OpenTUI applications.
 * [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
 
 ## Starters & Examples
@@ -46,12 +46,12 @@
 
 ## Developer Tools
 
-* [hunk](https://github.com/modem-dev/hunk) ⭐ 9,542 | 🐛 185 | 🌐 TypeScript | 📅 2026-10-07 - Review-first terminal diff viewer for agentic coders.
-* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,642 | 🐛 86 | 🌐 Rust | 📅 2026-10-05 - A terminal interface for tracking token usage.
-* [critique](https://github.com/remorses/critique) ⭐ 1,277 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-27 - A terminal interface for reviewing Git changes.
+* [hunk](https://github.com/modem-dev/hunk) ⭐ 9,562 | 🐛 187 | 🌐 TypeScript | 📅 2026-10-07 - Review-first terminal diff viewer for agentic coders.
+* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,649 | 🐛 94 | 🌐 Rust | 📅 2026-10-05 - A terminal interface for tracking token usage.
+* [critique](https://github.com/remorses/critique) ⭐ 1,276 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-27 - A terminal interface for reviewing Git changes.
 * [ghui](https://github.com/kitlangton/ghui) ⭐ 1,121 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-25 - A terminal UI for managing open GitHub pull requests across repositories.
 * [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 405 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - A terminal user interface for WAHA (WhatsApp HTTP API).
-* [termdraw](https://github.com/benvinegar/termdraw) ⭐ 337 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-04 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
+* [termdraw](https://github.com/benvinegar/termdraw) ⭐ 338 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-04 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
 * [tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) ⭐ 122 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-04 - A terminal kanban board over plain markdown files, with a planner, a calendar-aware agenda, and a live Claude Code session view.
 * [easiarr](https://github.com/muhammedaksam/easiarr) ⭐ 75 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A terminal interface for managing Arr applications.
 * [cftop](https://github.com/NWBY/cftop) ⭐ 72 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-23 - A terminal interface for Cloudflare Workers.
@@ -61,8 +61,8 @@
 
 ## Applications & Games
 
-* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,378 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-08 - Financial terminal using OpenTUI for the layout.
-* [tfm-tui](https://github.com/clarkarch/tfm-tui) ⭐ 260 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-08 - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
+* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,409 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09 - Financial terminal using OpenTUI for the layout.
+* [tfm-tui](https://github.com/clarkarch/tfm-tui) ⭐ 268 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
 * [opentui-doom](https://github.com/muhammedaksam/opentui-doom) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 
 ## Contributing
@@ -71,4 +71,4 @@ Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
