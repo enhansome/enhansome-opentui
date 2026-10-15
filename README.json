@@ -15,11 +15,11 @@
             "id": 1023522611,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T14:27:57Z",
-            "open_issues": 184,
+            "last_commit": "2026-10-14T18:20:25Z",
+            "open_issues": 189,
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13535,
+            "stars": 13545,
             "topics": [
               "opencode",
               "opentui",
@@ -61,8 +61,8 @@
             "id": 1045838787,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-14T03:47:44Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-15T08:30:40Z",
+            "open_issues": 2,
             "owner": "msmps",
             "repo": "create-tui",
             "stars": 145,
@@ -99,7 +99,7 @@
             "open_issues": 4,
             "owner": "tuiparts",
             "repo": "tuiparts",
-            "stars": 265,
+            "stars": 266,
             "topics": [
               "opentui",
               "react",
@@ -131,7 +131,7 @@
             "open_issues": 1,
             "owner": "msmps",
             "repo": "opentui-spinner",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
@@ -152,7 +152,7 @@
             "open_issues": 0,
             "owner": "msmps",
             "repo": "anscribe",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
@@ -176,10 +176,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-14T13:44:08Z",
-            "open_issues": 156,
+            "open_issues": 159,
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 9607,
+            "stars": 9613,
             "topics": [
               "agents",
               "cli",
@@ -207,11 +207,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-14T14:49:40Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-15T15:45:53Z",
+            "open_issues": 92,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5672,
+            "stars": 5685,
             "topics": [
               "ai",
               "ai-agents",
@@ -315,6 +315,43 @@
         },
         {
           "node_type": "item",
+          "title": "Noodle",
+          "description": "A terminal REST client with file-based collections, scripting, and tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A REST Client where the Repository is the Workspace",
+            "homepage": "https://noodlerest.dev",
+            "id": 1279660735,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-13T22:46:02Z",
+            "open_issues": 0,
+            "owner": "wilfredinni",
+            "repo": "noodle",
+            "stars": 392,
+            "topics": [
+              "ai-agents",
+              "ai-skills",
+              "ai-tools",
+              "api-client",
+              "cli",
+              "developer-tools",
+              "devtools",
+              "http",
+              "rest",
+              "rest-api",
+              "rest-client",
+              "skills",
+              "terminal",
+              "terminal-ui",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-10-15T15:47:59.991Z"
+        },
+        {
+          "node_type": "item",
           "title": "termdraw",
           "description": "A terminal drawing editor for editable diagrams, UI mocks, and text graphics.",
           "children": [],
@@ -329,7 +366,7 @@
             "open_issues": 9,
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 340,
+            "stars": 341,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
@@ -518,11 +555,11 @@
             "id": 1191195886,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T15:36:22Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-15T15:38:14Z",
+            "open_issues": 11,
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 2436,
+            "stars": 2440,
             "topics": [
               "bloomberg-terminal",
               "finance",
@@ -548,11 +585,11 @@
             "id": 1345851305,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T11:26:12Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-15T14:56:16Z",
+            "open_issues": 3,
             "owner": "clarkarch",
             "repo": "tfm-tui",
-            "stars": 307,
+            "stars": 309,
             "topics": [
               "bun",
               "file-manager",
@@ -565,6 +602,31 @@
             ]
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hntui",
+          "description": "A terminal UI for browsing YC Hacker News.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "browse hackernews like a hacker",
+            "homepage": null,
+            "id": 1251419021,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-01T12:48:29Z",
+            "open_issues": 0,
+            "owner": "ahmd-sh",
+            "repo": "hntui",
+            "stars": 147,
+            "topics": [
+              "hacker-news",
+              "opentui",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-10-15T15:47:59.991Z"
         },
         {
           "node_type": "item",
@@ -605,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:59:08.098Z",
+    "last_updated": "2026-10-15T15:47:59.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome opentui resources",
@@ -613,11 +675,11 @@
       "id": 1090595153,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-27T20:44:15Z",
-      "open_issues": 6,
+      "last_commit": "2026-10-14T17:55:23Z",
+      "open_issues": 4,
       "owner": "msmps",
       "repo": "awesome-opentui",
-      "stars": 399,
+      "stars": 401,
       "topics": [
         "awesome",
         "awesome-list",
@@ -627,7 +689,7 @@
         "tui"
       ]
     },
-    "original_repository_sha": "198422e55ebcd2366caadb4566e7286a6612445d",
+    "original_repository_sha": "720bc05089ccd932965ee0fcc580865d3def7ff0",
     "enhanced_repository": "enhansome/enhansome-opentui",
     "enhanced_repository_description": null,
     "title": "Awesome opentui with stars"
