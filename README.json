@@ -15,11 +15,11 @@
             "id": 1023522611,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T16:42:04Z",
-            "open_issues": 153,
+            "last_commit": "2026-11-05T15:08:10Z",
+            "open_issues": 155,
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13711,
+            "stars": 13712,
             "topics": [
               "opencode",
               "opentui",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "msmps",
             "repo": "opentui-skill",
-            "stars": 229,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
@@ -175,11 +175,11 @@
             "id": 1184626912,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T15:12:13Z",
-            "open_issues": 180,
+            "last_commit": "2026-11-05T15:43:47Z",
+            "open_issues": 182,
             "owner": "modem-dev",
             "repo": "hunk",
-            "stars": 9764,
+            "stars": 9774,
             "topics": [
               "agents",
               "cli",
@@ -207,11 +207,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-04T18:38:06Z",
-            "open_issues": 94,
+            "last_commit": "2026-11-05T15:25:28Z",
+            "open_issues": 71,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5796,
+            "stars": 5799,
             "topics": [
               "ai",
               "ai-agents",
@@ -253,7 +253,7 @@
             "open_issues": 10,
             "owner": "remorses",
             "repo": "critique",
-            "stars": 1286,
+            "stars": 1285,
             "topics": [
               "diff",
               "opentui",
@@ -329,7 +329,7 @@
             "open_issues": 2,
             "owner": "wilfredinni",
             "repo": "noodle",
-            "stars": 403,
+            "stars": 401,
             "topics": [
               "ai-agents",
               "ai-skills",
@@ -366,7 +366,7 @@
             "open_issues": 9,
             "owner": "benvinegar",
             "repo": "termdraw",
-            "stars": 346,
+            "stars": 347,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:37.865Z"
@@ -555,11 +555,11 @@
             "id": 1191195886,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T18:46:59Z",
+            "last_commit": "2026-11-05T18:59:12Z",
             "open_issues": 4,
             "owner": "gloom-sh",
             "repo": "gloomberb",
-            "stars": 2637,
+            "stars": 2640,
             "topics": [
               "bloomberg-terminal",
               "finance",
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:53:41.577Z",
+    "last_updated": "2026-11-05T19:05:00.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome opentui resources",
@@ -676,7 +676,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-14T17:55:23Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "msmps",
       "repo": "awesome-opentui",
       "stars": 408,
