@@ -25,7 +25,7 @@
 
 ## Official Projects
 
-* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,738 | 🐛 156 | 🌐 TypeScript | 📅 2026-11-07 - The main OpenTUI project.
+* [OpenTUI](https://github.com/anomalyco/opentui) ⭐ 13,750 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-08 - The main OpenTUI project.
 * [opentui-skill](https://github.com/msmps/opentui-skill) ⭐ 228 | 🐛 0 | 🌐 Shell | 📅 2026-08-27 - OpenTUI reference docs for coding agents covering Core, React, and Solid.
 * [create-tui](https://github.com/msmps/create-tui) ⭐ 144 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-07 - A project generator for OpenTUI applications.
 * [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
@@ -46,14 +46,14 @@
 
 ## Developer Tools
 
-* [hunk](https://github.com/modem-dev/hunk) ⭐ 9,789 | 🐛 170 | 🌐 TypeScript | 📅 2026-11-07 - Review-first terminal diff viewer for agentic coders.
-* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,809 | 🐛 76 | 🌐 Rust | 📅 2026-11-06 - A terminal interface for tracking token usage.
+* [hunk](https://github.com/modem-dev/hunk) ⭐ 9,794 | 🐛 172 | 🌐 TypeScript | 📅 2026-11-07 - Review-first terminal diff viewer for agentic coders.
+* [tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,811 | 🐛 80 | 🌐 Rust | 📅 2026-11-06 - A terminal interface for tracking token usage.
 * [critique](https://github.com/remorses/critique) ⭐ 1,285 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-02 - A terminal interface for reviewing Git changes.
-* [ghui](https://github.com/kitlangton/ghui) ⭐ 1,136 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-25 - A terminal UI for managing open GitHub pull requests across repositories.
+* [ghui](https://github.com/kitlangton/ghui) ⭐ 1,138 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-25 - A terminal UI for managing open GitHub pull requests across repositories.
 * [waha-tui](https://github.com/muhammedaksam/waha-tui) ⭐ 412 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-24 - A terminal user interface for WAHA (WhatsApp HTTP API).
-* [Noodle](https://github.com/wilfredinni/noodle) ⭐ 401 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - A terminal REST client with file-based collections, scripting, and tests.
-* [termdraw](https://github.com/benvinegar/termdraw) ⭐ 347 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-04 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
-* [tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) ⭐ 131 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-16 - A terminal kanban board over plain markdown files, with a planner, a calendar-aware agenda, and a live Claude Code session view.
+* [Noodle](https://github.com/wilfredinni/noodle) ⭐ 402 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-08 - A terminal REST client with file-based collections, scripting, and tests.
+* [termdraw](https://github.com/benvinegar/termdraw) ⭐ 348 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-04 - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
+* [tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) ⭐ 131 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-08 - A terminal kanban board over plain markdown files, with a planner, a calendar-aware agenda, and a live Claude Code session view.
 * [easiarr](https://github.com/muhammedaksam/easiarr) ⭐ 75 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A terminal interface for managing Arr applications.
 * [cftop](https://github.com/NWBY/cftop) ⭐ 72 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-23 - A terminal interface for Cloudflare Workers.
 * [opendocker](https://github.com/flat6solutions/opendocker) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-01 - A terminal interface for managing Docker containers.
@@ -62,7 +62,7 @@
 
 ## Applications & Games
 
-* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,664 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-07 - Financial terminal using OpenTUI for the layout.
+* [gloomberb](https://github.com/gloom-sh/gloomberb) ⭐ 2,666 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-08 - Financial terminal using OpenTUI for the layout.
 * [tfm-tui](https://github.com/clarkarch/tfm-tui) ⭐ 356 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
 * [hntui](https://github.com/ahmd-sh/hntui) ⭐ 150 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - A terminal UI for browsing YC Hacker News.
 * [opentui-doom](https://github.com/muhammedaksam/opentui-doom) ⭐ 47 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
@@ -73,4 +73,4 @@ Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
